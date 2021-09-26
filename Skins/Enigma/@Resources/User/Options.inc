@@ -9,48 +9,48 @@ Stylesheet=Enigma Dark
 ; WORLD
 
 ; Local Weather
-WeatherCodeName=New York, Stone Street Historic District, New York, United States of America
-WeatherCodeLat=40.712728
-WeatherCodeLon=-74.006015
+WeatherCodeName=Rīga, Vidzeme, Latvija
+WeatherCodeLat=56.949397
+WeatherCodeLon=24.105184
 ; Units of measure. This must be one of the following lower case letters:
 ; e		This is "Imperial", using Fahrenheit.
 ; m		This is "Metric", using Celsius.
 ; h		This is "Hybrid", used primarily in the UK. Celsius for temperatures, but miles for distances.
-WeatherCodeUnit=e
+WeatherCodeUnit=m
 WeatherCodeLanguage=en-US
 
 ; 1st World Weather
-World1WeatherCodeName=London, Greater London, England, United Kingdom
-World1WeatherCodeLat=51.507321
-World1WeatherCodeLon=-0.127647
+World1WeatherCodeName=Тюмень, Привокзальная улица, Калининский административный округ, Тюмень, городской округ Тюмень, Тюменская область, Уральский федеральный округ, 625000, Россия
+World1WeatherCodeLat=57.145575
+World1WeatherCodeLon=65.522118
 ; Units of measure. This must be one of the following lower case letters:
 ; e		This is "Imperial", using Fahrenheit.
 ; m		This is "Metric", using Celsius.
 ; h		This is "Hybrid", used primarily in the UK. Celsius for temperatures, but miles for distances.
-World1WeatherCodeUnit=h
-World1WeatherCodeLanguage=en-GB
+World1WeatherCodeUnit=m
+World1WeatherCodeLanguage=ru-RU
 
 ; 2nd World Weather
-World2WeatherCodeName=Paris, �le-de-France, France m�tropolitaine, France
-World2WeatherCodeLat=48.856696
-World2WeatherCodeLon=2.351461
+World2WeatherCodeName=Алматы, Қазақстан
+World2WeatherCodeLat=43.236392
+World2WeatherCodeLon=76.945727
 ; Units of measure. This must be one of the following lower case letters:
 ; e		This is "Imperial", using Fahrenheit.
 ; m		This is "Metric", using Celsius.
 ; h		This is "Hybrid", used primarily in the UK. Celsius for temperatures, but miles for distances.
 World2WeatherCodeUnit=m
-World2WeatherCodeLanguage=fr-FR
+World2WeatherCodeLanguage=ru-RU
 
 ; 3rd World Weather
-World3WeatherCodeName=Melbourne, City of Melbourne, Victoria, 3000, Australia
-World3WeatherCodeLat=-37.814217
-World3WeatherCodeLon=144.963160
+World3WeatherCodeName=New York, United States
+World3WeatherCodeLat=40.712728
+World3WeatherCodeLon=-74.006015
 ; Units of measure. This must be one of the following lower case letters:
 ; e		This is "Imperial", using Fahrenheit.
 ; m		This is "Metric", using Celsius.
 ; h		This is "Hybrid", used primarily in the UK. Celsius for temperatures, but miles for distances.
-World3WeatherCodeUnit=e
-World3WeatherCodeLanguage=en-CA
+World3WeatherCodeUnit=m
+World3WeatherCodeLanguage=ru
 
 ; Skin labels
 WindChill=Wind Chill
@@ -88,13 +88,13 @@ ProcessInterval=5
 ;-----------------------
 ; MUSIC
 
-MusicPlayerType=12
-MusicPlayer=Winamp
+MusicPlayerType=2
+MusicPlayer=Spotify
 
 ;-----------------------
 ; FEEDS
 
-Feed1=http://news.google.com/news?pz=1&ned=us&hl=en&topic=h&num=10&output=rss
+Feed1=http://lz.lv/rss
 Feed2=http://kaelri.com/feed/
 Feed3=http://feeds.bbci.co.uk/news/video_and_audio/news_front_page/rss.xml?edition=uk
 GmailUsername=YourUsername

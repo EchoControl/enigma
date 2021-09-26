@@ -51,7 +51,7 @@ MeasureName=@CurrentIcon
 Meter=STRING
 MeterStyle=StyleWeather#Variant#Text
 MeasureName=@CurrentTemperature
-Postfix="°"
+Postfix="Â°"
 ;LeftMouseUpAction=["https://weather.com/#Language#/weather/today/l/#CurrentCode#"]
 
 [Desc]
@@ -70,7 +70,7 @@ MeterStyle=StyleWeather#Variant#Separator
 Meter=STRING
 MeasureName=@CurrentFeelsLike
 MeterStyle=StyleWeather#Variant#Text | StyleWeather#Variant#TextSub
-Postfix="°"
+Postfix="Â°"
 
 [WindChillLabel]
 Meter=STRING
@@ -94,7 +94,7 @@ Meter=STRING
 MeasureName=@CurrentWindDirectionDegrees
 MeasureName2=@CurrentWindDirectionDegreesCardinal
 MeterStyle=StyleWeather#Variant#Text | StyleWeather#Variant#TextSub
-Text=%1° (%2)
+Text=%1Â° (%2)
 
 [WindDirectionLabel]
 Meter=STRING
@@ -159,7 +159,7 @@ MeasureName=@ForecastDay2DayIcon
 Meter=STRING
 MeterStyle=StyleWeather#Variant#Text
 MeasureName=MeasureWeatherDay2Average
-Postfix="°"
+Postfix="Â°"
 ;LeftMouseUpAction=["https://weather.com/#Language#/weather/today/l/#CurrentCode#"]
 
 [Date2]
@@ -183,7 +183,7 @@ MeasureName=@ForecastDay3DayIcon
 Meter=STRING
 MeterStyle=StyleWeather#Variant#Text
 MeasureName=MeasureWeatherDay3Average
-Postfix="°"
+Postfix="Â°"
 ;LeftMouseUpAction=["https://weather.com/#Language#/weather/today/l/#CurrentCode#"]
 
 [Date3]

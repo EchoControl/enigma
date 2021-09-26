@@ -35,7 +35,7 @@ DaylightSavingTime=0
 
 [MeasureClock]
 Measure=Time
-Format="%#I.%M %p"
+Format="%#H:%M"
 TimeStamp=[MeasureTime]
 TimeStampFormat=%H:%M:%S
 Substitute="PM":"pm","AM":"am"

@@ -4,6 +4,8 @@
 
 - Load the "Enigma\Options" skin to change your settings.
 
+тест
+
 <donotshow>
 
 - Any text that appears after the <donotshow> tag will not display in Enigma Notes.
